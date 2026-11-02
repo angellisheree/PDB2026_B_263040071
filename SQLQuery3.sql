@@ -1,0 +1,3 @@
+ALTER TABLE Pelanggan
+ADD NoTelepon VARCHAR(20) NULL;
+GO
